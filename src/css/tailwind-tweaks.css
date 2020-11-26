@@ -1,0 +1,5 @@
+@layer components {
+	.window-control {
+		@apply h-6 w-6 inline-block fill-current text-white;
+	}
+}
